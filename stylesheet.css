@@ -1,3 +1,7 @@
 .enemy {
   fill: green;
 }
+
+.player {
+  fill: red;
+}
